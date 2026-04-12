@@ -1,0 +1,12 @@
+{
+  "export_job_id": "729fff4c-562c-4505-ad96-e652cb12c06e",
+  "id_short": 516669,
+  "published_at": "2026-04-12T19:37:01Z",
+  "repo_name": "restaurant-social-ghosts-in-missouri-us-sample-516669",
+  "sample_asset_name": "beamstation_516669_restaurants-us-mo_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/516669/beamstation_516669_restaurants-us-mo_SAMPLE_DIST.csv",
+  "sample_records": 10,
+  "sample_sha256": "d3f5f684f250d22c62fbe0a8222ee14275bb3c05d7a6c112cbfad3f7f81ad173",
+  "sample_size_bytes": 49985,
+  "total_records": 104
+}
