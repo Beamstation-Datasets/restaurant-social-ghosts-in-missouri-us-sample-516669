@@ -9,9 +9,9 @@
 | Dataset ID | `516669` |
 | Location | Missouri |
 | Category | Restaurants |
-| Full dataset size | 104 records |
-| Free sample size | 10 records (9.62%) |
-| Last export | 2026-04-08T06:35:20.575546+00:00 |
+| Full dataset size | 101 records |
+| Free sample size | 10 records (9.9%) |
+| Last export | 2026-04-15T10:10:10.860288+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-missouri-us-sample-516669/releases/download/sample-latest/beamstation_516669_restaurants-us-mo_SAMPLE_DIST.csv) |
 
 ## What is in this sample
